@@ -89,8 +89,7 @@ user.email = 1058411004423@student.unismuh.ac.id
 | 4 | ![Docker Hello World](screenshots/04-docker-hello-world.png) | Output docker run hello-world |
 | 5 | ![VS Code](screenshots/05-vscode-extensions.png) | VS Code dengan extensions |
 
----
-
+--
 ## 💭 Refleksi Pribadi
 
 ### Harapan dari Praktikum Ini
