@@ -1,0 +1,9 @@
+# Sistem & temp files
+*.log
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+AppData/
+OneDrive/
+Desktop.ini
