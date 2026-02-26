@@ -1,3 +1,4 @@
+
 # Dependencies
 node_modules/
 vendor/
@@ -64,3 +65,13 @@ htmlcov/
 tmp/
 temp/
 *.tmp
+=======
+# Sistem & temp files
+*.log
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+AppData/
+OneDrive/
+Desktop.ini
